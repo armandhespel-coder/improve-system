@@ -50,4 +50,4 @@ MIT — fais-en ce que tu veux.
 
 ---
 
-Fait par Armand · Hesperides Studio
+Fait par Armand · [Aptibots](https://aptibots.com)
